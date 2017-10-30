@@ -1,0 +1,6 @@
+beanshell:
+  - bshcore -- beanshell script runtime
+  - bshoo -- class feature support for beanshell
+  - bshref -- reflect support for beanshell(access private fields)
+  - bshcp -- classpath support for beanshell
+  - bshcmd -- useful command support for beanshell
